@@ -1,4 +1,4 @@
-# Print("Hello World") 👋
+## Print("Hello World")
 
 <!--
 **7arymisu/7arymisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

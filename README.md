@@ -14,7 +14,8 @@ class Taryn:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:9huangt@gmail.com)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230a66c2?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/taryn-huang-7a2786425/?isSelfProfile=true)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230a66c2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftaryn-huang-7a2786425%2F%3FisSelfProfile%3Dtrue)
+
 
 
 </div>
